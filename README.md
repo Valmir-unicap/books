@@ -12,5 +12,5 @@ Brasport \
 Caroli \
 Campus \
 Alta Books \
-Etc ..\
+Etc ..
 
