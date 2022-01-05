@@ -4,12 +4,13 @@ Aqui estao todos meus livros em PDF
 
 ## Editoras
 
-Casa do Codigo -
-Primeira Pessoa -
-Falconi -
-Novatec -
-Brasport -
-Caroli -
-Campus -
-Alta Books -
-Etc ..
+Casa do Codigo \
+Primeira Pessoa \
+Falconi \
+Novatec \
+Brasport \
+Caroli \
+Campus \
+Alta Books \
+Etc ..\
+
